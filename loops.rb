@@ -31,3 +31,5 @@ def kwk_camp
   puts "camp is over :("
 end
 kwk_camp 
+
+def 
